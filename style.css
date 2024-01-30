@@ -416,6 +416,15 @@ section {
     margin-top: 2rem;
 }
 
+.contact-info {
+    background-color: var(--box-border);
+    color: white;
+    padding: 30px;
+    width: 100%;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
 .footer {
     position: relative;
     top: 0px;
