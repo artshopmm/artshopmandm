@@ -169,6 +169,7 @@ section {
 }
 
 .about-img {
+    width: 32vw;
     border-radius: 50%;
     position: relative;
 }
